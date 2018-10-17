@@ -1,0 +1,70 @@
+<world>
+    <continent name="pangea">
+    </continent>
+        <country name="USA">
+        </country>
+            <state name="Wisconsion">
+            </state>
+                <city name="Madison">
+                </city>
+                    <district number="12">
+                    </district>
+            <state name="Texas">
+            </state>
+                <city name="Huston">
+                </city>
+                    <district number="2">
+        <country name="Russia">
+        </country>
+            <city name="Mr. Gold">
+            </city>
+                <district number="4">
+    <continent name="tag">
+        <country name="bob">
+        </country>
+            <city name="prison">
+            </city>
+                <district number="7">
+                </district>
+        <country name="Faucher">
+        </country>
+            <city name="caleb">
+            </city>
+                <district number="9">
+                </district>
+    </continent>
+    <continent name="johns">
+        <country name="military">
+        </country>
+            <state name="fun">
+            </state>
+                <district number="10">
+                </district>
+        <country name="Academics">
+        </country>
+            <state name="learning">
+            </state>
+                <district number="11">
+                </district>
+    </continent>
+    <continent name="hell">
+        <country name="the Johns">
+        </country>
+            <state name="Delifield">
+            </state>
+                <city name="new home">
+                </city>
+                    <district number="5">
+                    </district>
+    </continent>
+    <continent name="america">
+        <country name="free land">
+        </country>
+            <state name="comand">
+            </state>
+                <city name="leadership">
+                </city>
+                    <district number="7">
+
+    </continent>
+</world>
