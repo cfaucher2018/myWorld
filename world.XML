@@ -16,30 +16,38 @@
                     <district number="2">
         <country name="Russia">
         </country>
-            <city name="Mr. Gold">
-            </city>
-                <district number="4">
+            <state name="bad lands">
+            </state>
+                <city name="Mr. Gold">
+                </city>
+                    <district number="4">
+                    </district>
     <continent name="tag">
         <country name="bob">
         </country>
-            <city name="prison">
-            </city>
-                <district number="7">
-                </district>
+            <state name="cancer">
+            </state>                
+                <city name="prison">
+                </city>
+                    <district number="7">
+                    </district>
         <country name="Faucher">
         </country>
-            <city name="caleb">
-            </city>
-                <district number="9">
-                </district>
+            <state name="jay">
+                <city name="caleb">
+                </city>
+                    <district number="9">
+                    </district>
     </continent>
     <continent name="johns">
         <country name="military">
         </country>
             <state name="fun">
             </state>
-                <district number="10">
-                </district>
+                <city name="cool">
+                </city>
+                    <district number="10">
+                    </district>
         <country name="Academics">
         </country>
             <state name="learning">
